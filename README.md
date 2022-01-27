@@ -1,1 +1,1 @@
-This is the record that I leaned.
+This is record that I leaned.
