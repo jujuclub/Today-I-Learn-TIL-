@@ -6,6 +6,8 @@
     - [이러닝](https://juwon2021.tistory.com/192)
     - [Code](https://juwon2021.tistory.com/193)
 - [2022.01.30](https://juwon2021.tistory.com/195)
-- [2022.01.31](https://juwon2021.tistory.com/196)
+- 2022.01.31
+    - [이러닝](https://juwon2021.tistory.com/197)
+    - [Code](https://juwon2021.tistory.com/196)
 
 ## 2월
