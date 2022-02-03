@@ -1,6 +1,7 @@
 # 멀티캠퍼스
 ## 1월
-- [Day33](https://juwon2021.tistory.com/189)
+- 2022.01.27
+    - [Day33](https://juwon2021.tistory.com/189)
 - [2022.01.28](https://juwon2021.tistory.com/191)
 - 2022.01.29
     - [이러닝](https://juwon2021.tistory.com/192)
@@ -12,3 +13,6 @@
 
 ## 2월
 - [2022.02.02](https://juwon2021.tistory.com/198)
+- 2022.02.03
+    - [Day34](https://juwon2021.tistory.com/199)
+    - [Code](https://juwon2021.tistory.com/200)
