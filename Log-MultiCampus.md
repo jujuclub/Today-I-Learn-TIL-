@@ -2,17 +2,20 @@
 ## 1월
 - 2022.01.27
     - [Day33](https://juwon2021.tistory.com/189)
-- [2022.01.28](https://juwon2021.tistory.com/191)
+- 2022.01.28
+    - [이러닝](https://juwon2021.tistory.com/191)
 - 2022.01.29
     - [이러닝](https://juwon2021.tistory.com/192)
     - [Code](https://juwon2021.tistory.com/193)
-- [2022.01.30](https://juwon2021.tistory.com/195)
+- 2022.01.30
+    - [이러닝](https://juwon2021.tistory.com/195)
 - 2022.01.31
     - [이러닝](https://juwon2021.tistory.com/197)
     - [Code](https://juwon2021.tistory.com/196)
 
 ## 2월
-- [2022.02.02](https://juwon2021.tistory.com/198)
+- 2022.02.02
+    - [머신러닝 정리](https://juwon2021.tistory.com/198)
 - 2022.02.03
     - [Day34](https://juwon2021.tistory.com/199)
     - [Code](https://juwon2021.tistory.com/200)
