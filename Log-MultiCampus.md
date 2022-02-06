@@ -28,3 +28,5 @@
     - [이러닝](https://juwon2021.tistory.com/206)
 - 2022.02.05
     - [이러닝](https://juwon2021.tistory.com/207)
+- 2022.02.06
+    - [이러닝](https://juwon2021.tistory.com/208)
