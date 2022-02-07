@@ -32,3 +32,5 @@
     - [이러닝](https://juwon2021.tistory.com/208)
 - 2022.02.07
     - [이러닝](https://juwon2021.tistory.com/209)
+    - [error](https://juwon2021.tistory.com/210)
+    - [Dacon](https://juwon2021.tistory.com/211)
