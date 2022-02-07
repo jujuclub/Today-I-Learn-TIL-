@@ -34,3 +34,5 @@
     - [이러닝](https://juwon2021.tistory.com/209)
     - [error](https://juwon2021.tistory.com/210)
     - [Dacon](https://juwon2021.tistory.com/211)
+    - [Day36](https://juwon2021.tistory.com/212)
+    - [Code](https://juwon2021.tistory.com/213)
