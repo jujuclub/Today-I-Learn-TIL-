@@ -38,3 +38,5 @@
     - [Code](https://juwon2021.tistory.com/213)
 - 2022.02.08
     - [이러닝](https://juwon2021.tistory.com/214)
+    - [Dacon](https://juwon2021.tistory.com/215)
+    - [Day37](https://juwon2021.tistory.com/216)
