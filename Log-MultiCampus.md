@@ -17,31 +17,32 @@
 - 2022.02.02
     - [머신러닝 정리](https://juwon2021.tistory.com/198)
 - 2022.02.03
+    - [이러닝](https://juwon2021.tistory.com/201)
     - [Day34](https://juwon2021.tistory.com/199)
     - [Code](https://juwon2021.tistory.com/200)
     - [Code(2)](https://juwon2021.tistory.com/205)
-    - [이러닝](https://juwon2021.tistory.com/201)
 - 2022.02.04
+    - [이러닝](https://juwon2021.tistory.com/206)
     - [Day35](https://juwon2021.tistory.com/203)
     - [Code](https://juwon2021.tistory.com/202)
     - [Dacon](https://juwon2021.tistory.com/204)
-    - [이러닝](https://juwon2021.tistory.com/206)
 - 2022.02.05
     - [이러닝](https://juwon2021.tistory.com/207)
 - 2022.02.06
     - [이러닝](https://juwon2021.tistory.com/208)
 - 2022.02.07
     - [이러닝](https://juwon2021.tistory.com/209)
-    - [error](https://juwon2021.tistory.com/210)
-    - [Dacon](https://juwon2021.tistory.com/211)
     - [Day36](https://juwon2021.tistory.com/212)
     - [Code](https://juwon2021.tistory.com/213)
+    - [Dacon](https://juwon2021.tistory.com/211)
+    - [error](https://juwon2021.tistory.com/210)
 - 2022.02.08
     - [이러닝](https://juwon2021.tistory.com/214)
-    - [Dacon](https://juwon2021.tistory.com/215)
     - [Day37](https://juwon2021.tistory.com/216)
     - [Code](https://juwon2021.tistory.com/217)
+    - [Dacon](https://juwon2021.tistory.com/215)
 - 2022.02.09
+    - [이러닝](https://juwon2021.tistory.com/221)
     - [Day38](https://juwon2021.tistory.com/218)
     - [Code](https://juwon2021.tistory.com/219)
     - [팀플-추천시스템](https://juwon2021.tistory.com/220)
