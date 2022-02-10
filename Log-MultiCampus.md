@@ -46,3 +46,5 @@
     - [Day38](https://juwon2021.tistory.com/218)
     - [Code](https://juwon2021.tistory.com/219)
     - [팀플-추천시스템](https://juwon2021.tistory.com/220)
+- 2022.02.010
+    - [팀플-추천시스템](https://juwon2021.tistory.com/222)
