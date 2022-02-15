@@ -54,3 +54,8 @@
     - [이러닝](https://juwon2021.tistory.com/224)
 - 2022.02.13
     - [이러닝](https://juwon2021.tistory.com/225)
+- 2022.02.14
+    - [이러닝](https://juwon2021.tistory.com/227)
+    - [Dacon](https://juwon2021.tistory.com/226)
+- 2022.02.15
+    - [Day42](https://juwon2021.tistory.com/229)
