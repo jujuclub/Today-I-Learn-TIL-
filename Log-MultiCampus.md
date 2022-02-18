@@ -69,5 +69,7 @@
     - [Day44](https://juwon2021.tistory.com/234)
     - [Code](https://juwon2021.tistory.com/235)
 - 2022.02.18
+    - [이러닝](https://juwon2021.tistory.com/241)
+    - [이러닝-Code](https://juwon2021.tistory.com/240)
     - [Day45](https://juwon2021.tistory.com/238)
     - [알고리즘](https://juwon2021.tistory.com/239)
