@@ -76,3 +76,4 @@
     - [알고리즘](https://juwon2021.tistory.com/239)
 - 2022.02.19
     - [error](https://juwon2021.tistory.com/243)
+    - [SQL](https://juwon2021.tistory.com/244)
