@@ -74,6 +74,6 @@
     - [Day45](https://juwon2021.tistory.com/238)
     - [Dacon](https://juwon2021.tistory.com/242)
     - [알고리즘](https://juwon2021.tistory.com/239)
-- 2022.02.19
+- 2022.02.20
     - [error](https://juwon2021.tistory.com/243)
     - [SQL](https://juwon2021.tistory.com/244)
