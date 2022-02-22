@@ -82,7 +82,7 @@
     - [이러닝-Code](https://juwon2021.tistory.com/248)
     - [Day46](https://juwon2021.tistory.com/247)
     - [Dacon](https://juwon2021.tistory.com/246)
-- 2022.02.21
+- 2022.02.22
     - [이러닝](https://juwon2021.tistory.com/249)
     - [이러닝-Code](https://juwon2021.tistory.com/250)
     - [Code](https://juwon2021.tistory.com/253)
