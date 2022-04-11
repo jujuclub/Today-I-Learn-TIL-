@@ -216,4 +216,4 @@
     - [Code(3)](https://juwon2021.tistory.com/362)
 - 2022.04.10
     - [이러닝(1)](https://juwon2021.tistory.com/364)
-    - [이러닝(1)](https://juwon2021.tistory.com/365)
+    - [이러닝(2)](https://juwon2021.tistory.com/365)
